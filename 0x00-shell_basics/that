@@ -1,0 +1,39 @@
+Script started on 2023-09-02 18:51:51+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="74" LINES="33"]
+[main 931ba59] script that deletes all files in the current working directory that end with the character
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x00-shell_basics/101-clean_emacs
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 470 bytes | 470.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/Nifemi03/alx-system_engineering-devops.git
+   e8433e4..931ba59  main -> main
+nifemi@nifemi-Latitude-3540:~/alx-system_engineering-devops/0x00-shell_basics$ 
+
+
+[?2004h]0;nifemi@nifemi-Latitude-3540: ~/alx-system_engineering-devops/0x00-shell_basics[01;32mnifemi@nifemi-Latitude-3540[00m:[01;34m~/alx-system_engineering-devops/0x00-shell_basics[00m$ [main 931ba59] script that deletes all files in the current working directory that end with the character
+[?2004l[main: command not found
+[?2004h]0;nifemi@nifemi-Latitude-3540: ~/alx-system_engineering-devops/0x00-shell_basics[01;32mnifemi@nifemi-Latitude-3540[00m:[01;34m~/alx-system_engineering-devops/0x00-shell_basics[00m$  1 file changed, 2 insertions(+)
+[?2004lbash: syntax error near unexpected token `('
+[?2004h]0;nifemi@nifemi-Latitude-3540: ~/alx-system_engineering-devops/0x00-shell_basics[01;32mnifemi@nifemi-Latitude-3540[00m:[01;34m~/alx-system_engineering-devops/0x00-shell_basics[00m$  create mode 100755 0x00-shell_basics/101-clean_emacs
+[?2004lCommand 'create' not found, did you mean:
+  command 'pcreate' from deb pbuilder-scripts (22)
+Try: sudo apt install <deb name>
+[?2004h]0;nifemi@nifemi-Latitude-3540: ~/alx-system_engineering-devops/0x00-shell_basics[01;32mnifemi@nifemi-Latitude-3540[00m:[01;34m~/alx-system_engineering-devops/0x00-shell_basics[00m$ Enumerating objects: 6, done.
+[?2004lEnumerating: command not found
+[?2004h]0;nifemi@nifemi-Latitude-3540: ~/alx-system_engineering-devops/0x00-shell_basics[01;32mnifemi@nifemi-Latitude-3540[00m:[01;34m~/alx-system_engineering-devops/0x00-shell_basics[00m$ Counting objects: 100% (6/6), done.
+[?2004lbash: syntax error near unexpected token `('
+[?2004h]0;nifemi@nifemi-Latitude-3540: ~/alx-system_engineering-devops/0x00-shell_basics[01;32mnifemi@nifemi-Latitude-3540[00m:[01;34m~/alx-system_engineering-devops/0x00-shell_basics[00m$ Delta compression using up to 4 threads
+[?2004lDelta: command not found
+[?2004h]0;nifemi@nifemi-Latitude-3540: ~/alx-system_engineering-devops/0x00-shell_basics[01;32mnifemi@nifemi-Latitude-3540[00m:[01;34m~/alx-system_engineering-devops/0x00-shell_basics[00m$ Compressing objects: 100% (3/3), done.
+[?2004lbash: syntax error near unexpected token `('
+[?2004h]0;nifemi@nifemi-Latitude-3540: ~/alx-system_engineering-devops/0x00-shell_basics[01;32mnifemi@nifemi-Latitude-3540[00m:[01;34m~/alx-system_engineering-devops/0x00-shell_basics[00m$ Writing objects: 100% (4/4), 470 bytes | 470.00 KiB/s, done.
+[?2004lbash: syntax error near unexpected token `('
+[?2004h]0;nifemi@nifemi-Latitude-3540: ~/alx-system_engineering-devops/0x00-shell_basics[01;32mnifemi@nifemi-Latitude-3540[00m:[01;34m~/alx-system_engineering-devops/0x00-shell_basics[00m$ Total 4 (delta 1), reused 0 (delta 0), pack-reused 0
+[?2004lbash: syntax error near unexpected token `('
+[?2004h]0;nifemi@nifemi-Latitude-3540: ~/alx-system_engineering-devops/0x00-shell_basics[01;32mnifemi@nifemi-Latitude-3540[00m:[01;34m~/alx-system_engineering-devops/0x00-shell_basics[00m$ remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+[?2004lbash: syntax error near unexpected token `('
+[?2004h]0;nifemi@nifemi-Latitude-3540: ~/alx-system_engineering-devops/0x00-shell_basics[01;32mnifemi@nifemi-Latitude-3540[00m:[01;34m~/alx-system_engineering-devops/0x00-shell_basics[00m$ To h
